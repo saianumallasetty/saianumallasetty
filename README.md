@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sai Manikanta</h1>
-<h3 align="center">A passionate Data Engnieer from USA</h3>
+<h3 align="center">a Computer Enthusiast 💻 and a aspiring Data Scientist 👨‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saianumallasetty&label=Profile%20views&color=0e75b6&style=flat" alt="saianumallasetty" /> </p>
 
-- 💬 Ask me about **SQL, Data Visualization, Cloud, Airflow, Spark, Machine learning**
+- About Me **🎓 Currently pursuing a graduate degree in Business Anlaytics at University of Texas at Dallas (UTD), with a concentration in big data analytics and Data Science Intern at Cross Sense Analytics.**
 
-- 📫 How to reach me **saianumallasetty@gmail.com**
+- 👯 I’m looking to collaborate on **Open-source Data Engineering projects focusing on optimizing pipeline efficiency and scalability Collaborative efforts to solve complex data challenges and deliver actionable insights**
+
+- 💬 **I have a solid fundamental understanding of how distributed systems, technologies, and frameworks work to solve big data problems. I look forward to proving how my skills can help your team solve the data challenges and problem statements.**
+
+- 📫 How to reach me **http://www.linkedin.com/in/saianumalasetty saianumallasetty@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
