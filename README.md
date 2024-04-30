@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saianumallasetty&label=Profile%20views&color=0e75b6&style=flat" alt="saianumallasetty" /> </p>
 
-- About Me **🎓 Currently pursuing a graduate degree in Business Anlaytics at University of Texas at Dallas (UTD), with a concentration in big data analytics and Data Science Intern at Cross Sense Analytics.**
+- About Me **🎓 Currently pursuing a graduate degree in Business Anlaytics at University of Texas at Dallas (UTD), with a concentration in big data analytics and Data Science, Intern at Cross Sense Analytics.**
 
 - 👯 I’m looking to collaborate on **Open-source Data Engineering projects focusing on optimizing pipeline efficiency and scalability Collaborative efforts to solve complex data challenges and deliver actionable insights**
 
