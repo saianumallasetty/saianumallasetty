@@ -9,7 +9,7 @@
 
 - 💬 **I have a solid fundamental understanding of how distributed systems, technologies, and frameworks work to solve big data problems. I look forward to proving how my skills can help your team solve the data challenges and problem statements.**
 
-- 📫 How to reach me **saianumallasetty@gmail.com**
+- 📫 How to reach me **saianumalasetty26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
